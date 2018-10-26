@@ -1,0 +1,4 @@
+com\cpe\wongnai_server\Repository\ReOwRepository.class
+com\cpe\wongnai_server\Repository\TypReRepository.class
+com\cpe\wongnai_server\Repository\MeReRepository.class
+com\cpe\wongnai_server\Controller\ReowController.class
